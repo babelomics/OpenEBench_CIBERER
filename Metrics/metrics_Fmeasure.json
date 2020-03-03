@@ -1,0 +1,10 @@
+{
+    "_id":"CIBERER:Fmeasure",
+    "_schema": "https://www.elixir-europe.org/excelerate/WP2/json-schemas/1.0/Metrics",
+    "title":"F-measure",
+    "description":"Harmonic mean of precision and recall",
+    "formal_definition":"2*(precision*recall)/(precision+recall)",
+    "metrics_contact_ids":[
+        "Daniel.Lopez"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+   "_id":"doi:10.1038/s41587-019-0074-6",
+   "_schema":"https://www.elixir-europe.org/excelerate/WP2/json-schemas/1.0/Reference",
+   "title":"An open resource for accurately benchmarking small variant and reference calls",
+   "bibliographic_ids":[
+      "pmid:PMC5473400", 
+      "doi:10.1038/s41587-019-0074-6"],
+   "abstract": "Detection of deletions and duplications of whole exons (exon CNVs) is a key requirement of genetic testing. Accurate detection of this variant type has proved very challenging in targeted next-generation sequencing (NGS) data, particularly if only a single exon is involved. Many different NGS exon CNV calling methods have been developed over the last five years. Such methods are usually evaluated using simulated and/or in-house data due to a lack of publicly-available datasets with orthogonally generated results. This hinders tool comparisons, transparency and reproducibility. To provide a community resource for assessment of exon CNV calling methods in targeted NGS data, we here present the ICR96 exon CNV validation series. The dataset includes high-quality sequencing data from a targeted NGS assay (the TruSight Cancer Panel) together with Multiplex Ligation-dependent Probe Amplification (MLPA) results for 96 independent samples. 66 samples contain at least one validated exon CNV and 30 samples have validated negative results for exon CNVs in 26 genes. The dataset includes 46 exon CNVs in BRCA1, BRCA2, TP53, MLH1, MSH2, MSH6, PMS2, EPCAM or PTEN, giving excellent representation of the cancer predisposition genes most frequently tested in clinical practice. Moreover, the validated exon CNVs include 25 single exon CNVs, the most difficult type of exon CNV to detect. The FASTQ files for the ICR96 exon CNV validation series can be accessed through the European-Genome phenome Archive (EGA) under the accession number EGAS00001002428."
+}

@@ -1,0 +1,19 @@
+{
+   "_id":"CIBERER-NGS",
+   "_schema":"https://www.elixir-europe.org/excelerate/WP2/json-schemas/1.0/BenchmarkingEvent",
+   "name":"CIBERER - NGS benchmark",
+   "is_automated": false,
+   "dates":{
+      "creation":"2019-04-05T00:00:00Z",
+      "modification":"2019-04-05T14:00:00Z",
+      "benchmark_start":"2019-04-05T05:00:00Z",
+      "benchmark_stop":"2019-04-05T02:00:00Z"
+   },
+   "bench_contact_ids":[
+      "Daniel.Lopez"
+   ],
+   "community_id":"OEBC004",
+   "bench_contact_ids":[
+      "Daniel.Lopez"
+   ]
+}

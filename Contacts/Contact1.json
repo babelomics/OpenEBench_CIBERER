@@ -1,0 +1,12 @@
+{
+   "_id":"Daniel.Lopez",
+   "givenName":"Daniel",
+   "surname":"López",
+   "email":[
+      "daniel.lopez.lopez@juntadeandalucia.es"
+   ],
+   "notes":"Unknown",
+   "_schema":"https://www.elixir-europe.org/excelerate/WP2/json-schemas/1.0/Contact",
+   "contact_type":"person",
+   "community_id": "OEBC004"
+}

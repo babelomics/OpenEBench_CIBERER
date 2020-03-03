@@ -1,0 +1,36 @@
+{
+    "_id": "CIBERER-NGS:2019:U732",
+    "_schema": "https://www.elixir-europe.org/excelerate/WP2/json-schemas/1.0/Dataset",
+    "challenge_ids": [
+        "CIBERER-NGS:2019"
+    ],
+    "community_ids": [
+        "OEBC004"
+    ],
+    "datalink": {
+        "inline_data": {
+            "value": 0.922
+        }
+    },
+    "dataset_contact_ids": [
+        "Daniel.Lopez"
+    ],
+    "dates": {
+        "creation": "2019-04-05T00:00:00Z",
+        "modification": "2019-04-05T14:00:00Z"
+    },
+    "depends_on": {
+        "metrics_id": "CIBERER:Fmeasure",
+        "rel_dataset_ids": [
+            {
+                "dataset_id": "GIAB:2019"
+            }
+        ],
+        "tool_id": "CIBERER:U732"
+    },
+    "description": "Assesment of Metric F-measure in CIBERER2019",
+    "name": "Assesment of Metric F-measure in CIBERER2019",
+    "type": "assessment",
+    "version": "1",
+    "visibility": "public"
+}

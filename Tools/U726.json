@@ -1,0 +1,18 @@
+{
+    "_id":"CIBERER:U726",
+    "_schema": "https://www.elixir-europe.org/excelerate/WP2/json-schemas/1.0/Tool",
+    "activation": "2019-10-05T00:00:00Z",
+    "description": "U726",
+    "is_automated": false,
+    "name": "U726",
+    "status": "unknown",    
+    "tool_access": [
+        {
+            "tool_access_type": "other"
+        }
+    ],
+    "tool_contact_ids": [
+        "Daniel.Lopez"
+    ],
+    "community_ids": ["OEBC004"]
+}

@@ -1,0 +1,10 @@
+{
+    "_id":"CIBERER:Precision",
+    "_schema": "https://www.elixir-europe.org/excelerate/WP2/json-schemas/1.0/Metrics",
+    "title":"Precision",
+    "description":"Fraction of relevant variants that are successfully retrieved",
+    "formal_definition":"TP/TP+FP",
+    "metrics_contact_ids":[
+        "Daniel.Lopez"
+    ]
+}
